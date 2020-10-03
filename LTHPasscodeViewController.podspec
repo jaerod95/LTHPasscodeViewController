@@ -1,6 +1,6 @@
 {
 "name": "LTHPasscodeViewController",
-"version": "4.0.1",
+"version": "4.0.3",
 "license": {
 "type": "MIT",
 "file": "LICENSE.txt"
@@ -13,7 +13,7 @@
 "homepage": "https://github.com/rolandleth/LTHPasscodeViewController",
 "source": {
 "git": "https://github.com/rolandleth/LTHPasscodeViewController.git",
-"tag": "4.0.1"
+"tag": "4.0.3"
   },
 "screenshots": [
 "https://rolandleth.com/images/ios7-style-passcode/screenshot.png",
